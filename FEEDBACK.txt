@@ -1,0 +1,9 @@
+FEEDBACK:
+
+Nice clean implementation of your LazySearchTree class with lazy deletion!
+
+
+Good sample demonstrating your implementation.
+
+-Bita.
+
